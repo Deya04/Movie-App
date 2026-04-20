@@ -1,4 +1,4 @@
- let APIKey = "bb85ff6f";
+ let APIKey = "";
  let searchInput = document.getElementById("searchInput");
  let searchBtn = document.getElementById("searchBtn");
 
